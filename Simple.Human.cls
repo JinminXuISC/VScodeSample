@@ -7,6 +7,5 @@ Property Phone As %String;
 
 Property State As %String;
 
-Property Gender As %String;
 
 }
